@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gus\\UP\\projeto-dbz-csharp\\Xablau.csproj": {}
+    "C:\\Users\\brian\\OneDrive\\Área de Trabalho\\Projeto\\projeto-aula-dbz-csharp\\projeto-dbz-csharp-main\\Xablau.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gus\\UP\\projeto-dbz-csharp\\Xablau.csproj": {
+    "C:\\Users\\brian\\OneDrive\\Área de Trabalho\\Projeto\\projeto-aula-dbz-csharp\\projeto-dbz-csharp-main\\Xablau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gus\\UP\\projeto-dbz-csharp\\Xablau.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Área de Trabalho\\Projeto\\projeto-aula-dbz-csharp\\projeto-dbz-csharp-main\\Xablau.csproj",
         "projectName": "Xablau",
-        "projectPath": "C:\\Users\\gus\\UP\\projeto-dbz-csharp\\Xablau.csproj",
-        "packagesPath": "C:\\Users\\gus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gus\\UP\\projeto-dbz-csharp\\obj\\",
+        "projectPath": "C:\\Users\\brian\\OneDrive\\Área de Trabalho\\Projeto\\projeto-aula-dbz-csharp\\projeto-dbz-csharp-main\\Xablau.csproj",
+        "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\brian\\OneDrive\\Área de Trabalho\\Projeto\\projeto-aula-dbz-csharp\\projeto-dbz-csharp-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gus\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
